@@ -1,0 +1,6 @@
+alias bk="cd .."
+alias svim="sudo nvim "
+alias systemctl="sudo systemctl "
+alias mkcd="mkdir $1 && cd $1"
+alias df="df -h"
+alias grepctl="sudo journalctl | grep $1"
